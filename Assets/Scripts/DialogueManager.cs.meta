@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 5f3e7559e2f137c47a0f8a0a90aab5ab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerData: {fileID: 11400000, guid: ac5c4ca6efa655f44adc366bb1ed3291, type: 2}
+  - answersPanel: {instanceID: 0}
+  - formScreen: {instanceID: 0}
+  - scoreScreen: {instanceID: 0}
+  - defeatScreen: {instanceID: 0}
+  - alertScreen: {instanceID: 0}
+  - character: {instanceID: 0}
+  - dialogueText: {instanceID: 0}
+  - uiAnimator: {instanceID: 0}
+  - nextQuestionButton: {instanceID: 0}
+  - continueButton: {instanceID: 0}
+  - finalScore: {instanceID: 0}
+  - correctRate: {instanceID: 0}
+  - energyBar: {instanceID: 0}
+  - inputName: {instanceID: 0}
+  - inputSurname: {instanceID: 0}
+  - inputEmail: {instanceID: 0}
+  - inputNacimiento: {instanceID: 0}
+  - inputTfno: {instanceID: 0}
+  - inputEmpresa: {instanceID: 0}
+  - dropdownLaboral: {instanceID: 0}
+  - privacidad: {instanceID: 0}
+  - sorteo: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

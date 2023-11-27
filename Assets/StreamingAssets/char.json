@@ -1,0 +1,176 @@
+{
+	"characters": [
+
+		{
+			"ID": 1,
+			"Name": "Guillermo Neda",
+			"introNarration": [
+				"¿Qué haces tú aquí?",
+				"¿No sabes que esto es el inicio de la Ruta Aragón Emprende?.",
+				"No es para mirones ni para pasar el rato, así que largo.",
+				"¿Perdona? ¿Que te sientes lista para recorrerla?",
+				"¡JA!",
+				"Eso no lo decides tú, sino yo. Anda, te haré unas preguntas, a ver si sabes de lo que hablo.",
+				"Veamos."
+			],
+
+			"correctReactions": [
+				"Claro, era evidente.",
+				"Cualquiera con dos dedos de frente hubiera deducido que era la única posible.",
+				"Correcta.",
+				"Muy bien, muy bien. Has tenido suerte esta vez",
+				"Sí, sí, pero no hace falta que te emociones."
+			],
+
+			"incorrectReactions": [
+				"¡Menuda burrada acabas de soltar! Anda, prueba otra vez.",
+				"Jajajaja, no te esfuerces tan fuerte, que me da la risa.",
+				"Venga, no me hagas perder mi tiempo. Acabemos.",
+				"En fin, Pilarín.",
+				"Pues va a ser que no."
+			],
+
+			"outroNarration": [
+				"Venga sigue adelante, pero no te confíes.",
+				"Tendrás que recorrer la Laguna de Gallocanta para llegar hasta la siguiente prueba.",
+				"Suerte con la pirada de Ana, jaja seguro que de ahí no pasas.",
+				"Bueno eso si no te quedas atrapada en algún cenagal."
+			]
+		},
+
+
+
+		{
+			"ID": 2,
+			"Name": "Ana Litica",
+			"introNarration": [
+				"Bueno bueno, ¿qué tenemos por aquí?",
+				"Por lo llena de barro que vas veo que no ha sido una ruta fácil.",
+				"El caso es que has llegado hasta aquí y parece que te mueres de ganas por demostrar algo.",
+				"Pues sabes, la mejor manera de demostrar algo es con cifras. Resultados. Métricas.",
+				"No parece sorprendida así que imagino que entiendes como va esto.",
+				"Espero que estés lista, no me voy a relajar por tus pintas de novata y tu cachirulo festivo."
+			],
+
+			"correctReactions": [
+				"Bueno, esta la acierta el 86.7% de emprendedores, así que no me sorprende.",
+				"Debería haberte preguntado una más difícil.",
+				"Si te pillo consultando internet antes de responder, te expulso de la ruta, ¿lo sabes no?",
+				"Gracias por contestar adecuadamente, estoy harta de oír tontadas.",
+				"Luego si quieres hablamos más del tema."
+			],
+
+			"incorrectReactions": [
+				"O lo sabes, o no lo sabes. A boleo no consigues nada.",
+				"Puedes pedirle más información sobre el tema a ChatGPT, te vendrá bien.",
+				"Un fallo que se queda para siempre en tu expediente.",
+				"No trates de ser imaginativa, anda.",
+				"¿Recuerdas que has venido aquí por tu propio pie no? No quiero que piensen que me estoy ensañando contigo.",
+				"¿Seguro que has entendido la pregunta?"
+			],
+
+			"outroNarration": [
+				"Bueno pues parece que has conseguido una puntuación suficiente como para continuar.",
+				"Obviamente está lejos de ser un GRAN resultado.",
+				"De hecho, en mi primera vez tuve unos resultados un 25% mejores",
+				"Pero bueno, tú no estás aquí para competir, te basta con hacerlo lo mejor que sabes.",
+				"Continúa, por favor. El camino a través de Los Mallos de Riglos no tiene perdida.",
+				"Ya verás que el camino es un poco tortuoso. Al final te encontrarás a la estirada de Jurys.",
+				"Una cosa, si pasas la prueba,",
+				"Por favor ¡vuelve más tarde y comparamos respuestas!",
+				"¡Bye bye!"
+			]
+		},
+
+		{
+			"ID": 3,
+			"Name": "Dra. Jurys Prudencia",
+			"introNarration": [
+				"Hola pequeña, ¿te has perdido?",
+				"Yo soy La Dra Jurys Prudencia. ¿Te puedo ayudar en algo?",
+				"Ah, ¿que quieres continuar tu viaje?",
+				"Pero si acabas de llegar, ¿no?.",
+				"Anda, relájate un poco y bebe agua.",
+				"Bueno, si no quieres, no. Si crees que tú sola puedes con todo, adelante.",
+				" No soy quien para llevarte la contraria.",
+				"Veamos si esa cara bonita sabe defenderse en temas legales."
+			],
+			"correctReactions": [
+				"Claro que sí. Un minipunto para ti.",
+				"¡Eso es! Hagamos como que no has dudado nada.",
+				"¡Qué fuerte, la has acertado!",
+				"¿Ves como las fáciles te las sabes?",
+				"Evidentemente, esta la aprendí en mi primer año de carrera."
+			],
+			"incorrectReactions": [
+				"Uy! Me temo que estás algo verde cariño.",
+				"Uff... Esta no te la puedo pasar.",
+				"Aii caaaaaasiiii. A ver si la próxima tienes más suerte.",
+				"Creo que si no hubiera tantas opciones para elegir lo sacarías.",
+				"No te preocupes, fallar una pregunta no es para tanto.",
+				"Eres adorable, ¡de verdad! Creo que este tema no es tu punto fuerte."
+			],
+			"outroNarration": [
+				"En fin, hora de seguir adelante, te lo has ganado.",
+				"Aunque para ponerte a punto de verdad necesitaría unos mesecitos.",
+				"No te molestes en pedírmelo, ahora no tengo tiempo para eso.",
+				"Tengo que cuidar de todas las criaturas que se acercan por aquí, ¡están tan perdidas!",
+				"Te preguntarás qué viene ahora.",
+				"Pues ya solo te queda encontrarte con Capitalypse.",
+				"La verdad no tengo claro que consigas llegar hasta él. El camino aquí se vuelve muy traicionero.",
+				"Cruza el Parque Natural de Ordesa y Monte Perdido lo más rápido que puedas.",
+				"No hace falta que me des las gracias por este consejo, tranquila."
+
+			]
+		},
+
+		{
+			"ID": 4,
+			"Name": "Propertus Capitalypse",
+			"introNarration": [
+				"Hmm, perdona, ¿estás esperando a alguien?",
+				"Ah, ¿que has venido a verme?",
+				"Entiendo...",
+				"No son muchas las personas que llegan hasta aquí, disculpa por mi ensimismamiento.",
+				"Además te he visto tan joven... aunque si has llegado hasta aquí, no pongo en duda que hay algo en ti.",
+				"Han pasado muchos años desde que recorrí esta ruta por primera vez.",
+				" En mi caso ya estaba algo más consolidado que tú, y aún así fue un gran esfuerzo.",
+				"Pero veo en ti algo que yo tenía exactamente igual.",
+				"Esa mirada. Esos ojos. Desde luego chica, no has llegado aquí por casualidad.",
+				"¡Ejem! Perdona mi cháchara. No suelo recibir visitas.",
+				"Para que puedas acabar este viaje, te preguntaré una serie de cuestiones.",
+				"Son aquellas sobre las que me hubiera gustado reflexionar en mi primera vez.",
+				"Veamos cómo lo haces."
+			],
+
+			"correctReactions": [
+				"Desde luego, valiosa apreciación.",
+				"Bien bien, así es.",
+				"Desde luego, parece que vienes preparada.",
+				"No todos pueden acertar esta pregunta, enhorabuena.",
+				"Exacto, y conviene que lo recuerdes."
+			],
+
+			"incorrectReactions": [
+				"Hum... Supongo que no lo tienes demasiado claro todavía.",
+				"Algunas preguntas requieren de mayor tiempo de reflexión, las respuestas correctas no siempre son evidentes.",
+				"Comprendo que todavía no te habías enfrentado a este tipo de problemas.",
+				"No, no, deberás hacerlo mejor en la próxima.",
+				"Uy,¡menudo patinazo!",
+				"Bueno, me temo que no es así"
+			],
+
+			"outroNarration": [
+				"Estoy sorprendido.",
+				"Me enorgullece ver a jóvenes como tú con tanta determinación y energía.",
+				"Espero que recorrer esta ruta y encontrarte conmigo te haya servido para crecer.",
+				"No quiero ocuparte más tiempo, estoy seguro de que tienes mucho por hacer.",
+				"Pero recuerda que siempre que quieras volver a hacer la ruta o consultarme podrás encontrarme aquí.",
+				"Prosigue tu camino con la cabeza bien alta.",
+				"Que la fortuna te acompañe en tus próximos proyectos.",
+
+				"Los siguientes pasos dependen enteramente de ti."
+			]
+		}
+	]
+}
